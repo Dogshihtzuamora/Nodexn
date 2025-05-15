@@ -169,25 +169,6 @@ R: Verifique se:
 2. Está na pasta raiz ou /plugins
 3. Usa plugins.register() corretamente
 
-## 📞 Suporte
-
-Para ajuda adicional:
-- Email: on00dev.dev@gmail.com
-- Horário comercial: 09:00 - 18:00 (GMT-3)
-
 ---
 
 📌 **Nota**: Este é um aplicativo autônomo - não requer Node.js instalado mas requer acesso à internet para funcionar!
-
----
-# Créditos
-## 🎉 Parabéns pelo Projeto! 🚀
-
-Quero deixar registrado **meu sinceros parabéns** pela ideia incrível desse projeto!  
-A ideia foi **simplesmente brilhante** e a execução ficou **sensacional**!
-
-> 💡 **Créditos especiais**: Toda a inspiração e visão por trás dessa iniciativa incrível vem de **[Ravy NS](https://github.com/Dogshihtzuamora)**.  
-> Sem dúvidas, a mente criativa que tornou tudo isso possível! 👏🔥
----
-
-**Que venham ainda mais ideias épicas!** 
